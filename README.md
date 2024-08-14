@@ -1,7 +1,7 @@
 # dmenuzip
 
 
-#for those peolpe who get error when cloning dmenu respotory
+#for those people who get error when cloning dmenu respotory
 
 #this zip is written by lukesmithxyz
 
